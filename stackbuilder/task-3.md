@@ -3,11 +3,14 @@ title: Task 3
 sidebar_position: 3 
 ---
 
+
+# Task 3
+
 ## Improved Meta-data
 
-XML 
+```  
+XML
 
----   
 description: Explain how to set up and monitor StackSync AI Connector in StackBuilder. 
 
 title: StackSync AI Connector   
@@ -20,7 +23,7 @@ audience:
 - developer  
 - DevOps   
 product_version: '1.0'   
---- 
+```
 
 ## Metadata Field Definitions
 
