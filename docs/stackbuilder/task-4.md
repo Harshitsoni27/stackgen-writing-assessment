@@ -5,7 +5,7 @@ sidebar_position: 4
 
 # Task 4
 
-Hi @Vasudha and @Aron, Good Afternoon. Thank you for raising these points. I’ll try fixing the meta-data issues first and then broken-internal, since the documentation is already published and live on the website, I’ll try fixing it first on priority today.
+Hi @Vasudha and @Aron, Good Afternoon. Thank you for raising these points. I’ll try fixing the meta-data issues first and then broken-internal links, since the documentation is already published and live on the website, I’ll try fixing it first on priority today.
 
 @Aron if you have any existing reference guide for AI-validator kindly share it with me. Once I fix the above issues, I’ll go through it, and will be sure to reach out if I have questions.
 
